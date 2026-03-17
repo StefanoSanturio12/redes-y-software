@@ -1,0 +1,77 @@
+Profe:  Javier Molina
+(Introduccion a linux)
+
+https://javiermolina.redirectme.net:5280
+
+linux (GNU Linux) es un OS de codigo abierto y de licencia libre.
+
+enlinux, una de las formas de trabajr en el, es mediante el terminal, utiliznado unicamente texto, sin interfaz grafica. Solo utilizando comandos.
+
+Por ejemplo, poniendo el comando "date" en la consola, darà resultado a que muestre la hora y la fecha del sistema.
+
+Ademas, el modo consola ahorra recursos del sistema, dejando espacio y recursos para otros programas. Esto se utiliza principalmente en servidores.
+
+
+·Diferencias entre linux y unix
+
+Unix es un sistema operativo de codigo cerrado y de pago, mientras que linux es gratis y libre. Ademas linux comparte comandos con Unix.
+
+·Diferencias de Linux y Windows 
+--
+
+
+
+·········Linux sin instalar nada
+
+
+LiveCD: arranque fisico de linux. Obsoleto.
+
+
+Lapiz pendrive: 
+
+Telnet:
+
+
+
+Distribuciones de linux·······················
+
+
+se trata del nucleo del OS de linux mas algun paquete de programas e interfaces graficas listas para usar.
+
+Ubuntu:
+
+-Enfocada a ordenadores de escritorios y servidores. 
+-Basada en debian. 
+-Facil de usar y accesible.
+
+openSUSE:
+
+- AMD(?
+
+Mint: 
+
+-deribado de ubuntu, 
+
+Fedora:
+
+-proyecto de sistema operativo basado en programas de software libre y de uso general.
+
+
+Debian:
+
+-Es de las distribuciones mas viejas de Linux, Principalmente usada en servidores a nivel mundial.
+
+Mandriva(obsoleta)
+
+Slackware
+-de las primeras distribuciones de linux.
+
+Ejercicio 1
+
+
+
+
+
+
+
+

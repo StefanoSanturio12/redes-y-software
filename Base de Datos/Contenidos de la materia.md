@@ -1,0 +1,22 @@
+
+
+- Bases de datos relacionales
+	- Conceptos de sistemas de informacion.
+	- Conceptos de bases de datos.
+	- Modelos de datos.
+	- Sistemas manejadores de bases de datos.
+- Bases  de datos de mediano porte.
+	- Modelizacion conceptual.
+	- Modelo entidad - relacion (MER)
+	- Modelo relacionario
+	- Conceptos generales
+	- Restriccioes
+	- Pasaje de MER a modelo relacional
+	- Dependencias funcionales, dependencias multivaluadas y formas normales
+		- (1FN, 2FN, 3FN)
+	- introduccion al algebra relacional.
+	- SQL (Structured, Querry, Language)
+	- DDL (Data Definition Language)
+	- Tipos de datos y operadores
+	- DML (Data Manipulation Language)
+	- Consultas En Bases de datos relacionales
