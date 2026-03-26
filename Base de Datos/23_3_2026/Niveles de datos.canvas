@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"a34096bfc423340d","x":-280,"y":-120,"width":250,"height":60,"type":"text","text":"Vista 1"},
+		{"id":"0b7090c53cd7ab5d","x":80,"y":-120,"width":250,"height":60,"type":"text","text":"Vista N"},
+		{"id":"98378b74867a5c88","x":-100,"y":20,"width":250,"height":60,"type":"text","text":"\nEsquema logico o conceptual"},
+		{"id":"94922227b7b8d9f2","x":-100,"y":140,"width":250,"height":60,"type":"text","text":"Esquema fisico ( o interno)"},
+		{"id":"78e68f02b1675c3c","x":-100,"y":280,"width":250,"height":60,"type":"text","text":"BD"},
+		{"id":"41c094c9542921b0","x":-100,"y":-220,"width":250,"height":60,"type":"text","text":"Acceso BD"},
+		{"id":"ec4452369d2c7a26","x":-100,"y":-320,"width":250,"height":60,"type":"text","text":"Arquitectura de 3 niveles"},
+		{"id":"c110067cef9b5285","type":"text","text":"NV Externo","x":-480,"y":-120,"width":120,"height":60},
+		{"id":"4a6590390eecdc92","type":"text","text":"NV Logico","x":-480,"y":20,"width":120,"height":60},
+		{"id":"16f1179f5e25a4f5","x":-480,"y":140,"width":120,"height":60,"type":"text","text":"NV Fisico"}
+	],
+	"edges":[
+		{"id":"52f7aa48d63e5826","fromNode":"a34096bfc423340d","fromSide":"right","toNode":"0b7090c53cd7ab5d","toSide":"left","toEnd":"none"},
+		{"id":"c97eae7ba6e9768a","fromNode":"a34096bfc423340d","fromSide":"bottom","toNode":"98378b74867a5c88","toSide":"top"},
+		{"id":"8d9be6f5d9f6dc72","fromNode":"0b7090c53cd7ab5d","fromSide":"bottom","toNode":"98378b74867a5c88","toSide":"top"},
+		{"id":"4668971f3f7f2e39","fromNode":"98378b74867a5c88","fromSide":"bottom","toNode":"94922227b7b8d9f2","toSide":"top"},
+		{"id":"a6f86918b511c0c5","fromNode":"94922227b7b8d9f2","fromSide":"bottom","toNode":"78e68f02b1675c3c","toSide":"top"}
+	]
+}
