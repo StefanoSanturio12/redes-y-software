@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"917f26b8de19bd40","x":-140,"y":-260,"width":250,"height":60,"type":"text","text":"Empleados\n"},
+		{"id":"eb3ad60b08840e7a","x":-140,"y":-20,"width":250,"height":60,"type":"text","text":"Cordinacion\n(Rombo)"}
+	],
+	"edges":[
+		{"id":"39ca2029713bdbda","fromNode":"917f26b8de19bd40","fromSide":"left","toNode":"eb3ad60b08840e7a","toSide":"left","label":"N\nSubordinados"},
+		{"id":"19ff0fdc395b2df0","fromNode":"917f26b8de19bd40","fromSide":"right","toNode":"eb3ad60b08840e7a","toSide":"right","label":"1\nJefe"}
+	]
+}

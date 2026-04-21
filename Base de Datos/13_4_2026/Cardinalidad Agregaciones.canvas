@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"6724b0cb9bc8585a","x":-100,"y":100,"width":120,"height":50,"type":"text","text":"(M-R) - p"},
+		{"id":"30293d9923c06406","x":-80,"y":20,"width":80,"height":50,"type":"text","text":"M-R"},
+		{"id":"19ec55c77992cbb1","x":-292,"y":-280,"width":505,"height":140,"type":"text","text":""},
+		{"id":"599d25290304352b","x":85,"y":-330,"width":160,"height":50,"type":"text","text":"REquerimiento"},
+		{"id":"71da0534f24825a0","x":-292,"y":-330,"width":120,"height":50,"type":"text","text":"material"},
+		{"id":"5dece6ad1ecdd8e3","x":-100,"y":-330,"width":103,"height":50,"type":"text","text":"m-r"},
+		{"id":"13888fec57a3cfa2","x":-100,"y":260,"width":117,"height":60,"type":"text","text":"Pedidos"},
+		{"id":"7b13a04e8ef3ba95","x":-292,"y":-95,"width":185,"height":165,"type":"text","text":"(M1,R1), P1\n\n(M2, R2), P2\n\n(M3, R3), P3"}
+	],
+	"edges":[
+		{"id":"ac773423722cd689","fromNode":"19ec55c77992cbb1","fromSide":"bottom","toNode":"30293d9923c06406","toSide":"top","label":"N\n\n"},
+		{"id":"36a3ab4e7a010674","fromNode":"30293d9923c06406","fromSide":"bottom","toNode":"6724b0cb9bc8585a","toSide":"top"},
+		{"id":"b85006c21e5cad74","fromNode":"6724b0cb9bc8585a","fromSide":"bottom","toNode":"13888fec57a3cfa2","toSide":"top","label":"N"},
+		{"id":"fe46482ff277a4ee","fromNode":"71da0534f24825a0","fromSide":"right","toNode":"5dece6ad1ecdd8e3","toSide":"left","label":"n\n\n"},
+		{"id":"01dd90c7d7c67244","fromNode":"599d25290304352b","fromSide":"left","toNode":"5dece6ad1ecdd8e3","toSide":"right","label":"n"}
+	]
+}
